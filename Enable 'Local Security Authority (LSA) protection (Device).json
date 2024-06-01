@@ -1,0 +1,26 @@
+{
+  "@odata.type": "#microsoft.graph.windows10CustomConfiguration",
+  "roleScopeTagIds": [
+    "0"
+  ],
+  "deviceManagementApplicabilityRuleOsEdition": null,
+  "deviceManagementApplicabilityRuleOsVersion": null,
+  "deviceManagementApplicabilityRuleDeviceMode": null,
+  "version": 222,
+  "omaSettings": [
+    {
+      "@odata.type": "#microsoft.graph.omaSettingInteger",
+      "displayName": "Enable 'Local Security Authority (LSA) protection'",
+      "description": null,
+      "omaUri": "./Device/Vendor/MSFT/Policy/Config/LocalSecurityAuthority/ConfigureLsaProtectedProcess",
+      "secretReferenceValueId": null,
+      "isEncrypted": false,
+      "value": 1,
+      "isReadOnly": false
+    }
+  ],
+  "displayName": "Enable 'Local Security Authority (LSA) protection'",
+  "description": "Enable 'Local Security Authority (LSA) protection' increases the Microsoft Secure Score.",
+  "Type": "Device",
+  "GUID": "f628933d-e2ed-4ac9-9b5d-4915ca3878ec"
+}
