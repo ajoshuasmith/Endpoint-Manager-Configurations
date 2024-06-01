@@ -1,0 +1,15 @@
+{
+  "added": [
+    {
+      "definition@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('a3bd23b5-dfd8-4dee-95b3-29f149a175a6')",
+      "enabled": true,
+      "presentationValues": []
+    }
+  ],
+  "updated": [],
+  "deletedIds": [],
+  "displayName": "Disable Installation and configuration of Network Bridge",
+  "description": "Disable Installation and configuration of Network Bridge on your DNS domain network\n\nincreases the Microsoft Secure Score.",
+  "Type": "Admin",
+  "GUID": "71ee64c8-46dc-4f89-9bd0-b99962d2186b"
+}
