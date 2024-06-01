@@ -1,0 +1,15 @@
+{
+  "added": [
+    {
+      "definition@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('4251950d-1abf-46b6-9eba-be6b3ab70b1c')",
+      "enabled": false,
+      "presentationValues": []
+    }
+  ],
+  "updated": [],
+  "deletedIds": [],
+  "displayName": "Disable 'Continue running background apps when Google Chrome is closed'",
+  "description": "Disable 'Continue running background apps when Google Chrome is closed' and increases the Microsoft Secure Score.",
+  "Type": "Admin",
+  "GUID": "72646bd1-0daf-4c6e-8405-7d3747a96f3a"
+}
