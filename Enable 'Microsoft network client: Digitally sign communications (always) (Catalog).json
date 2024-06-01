@@ -1,0 +1,30 @@
+{
+  "name": "Enable 'Microsoft network client: Digitally sign communications (always)",
+  "settings": [
+    {
+      "id": "0",
+      "settingInstance": {
+        "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance",
+        "settingDefinitionId": "device_vendor_msft_policy_config_localpoliciessecurityoptions_microsoftnetworkclient_digitallysigncommunicationsalways",
+        "settingInstanceTemplateReference": null,
+        "choiceSettingValue": {
+          "settingValueTemplateReference": null,
+          "value": "device_vendor_msft_policy_config_localpoliciessecurityoptions_microsoftnetworkclient_digitallysigncommunicationsalways_1",
+          "children": []
+        }
+      }
+    }
+  ],
+  "platforms": "windows10",
+  "technologies": "mdm",
+  "templateReference": {
+    "templateId": "",
+    "templateFamily": "none",
+    "templateDisplayName": null,
+    "templateDisplayVersion": null
+  },
+  "displayName": "Enable 'Microsoft network client: Digitally sign communications (always)",
+  "description": "Enable 'Microsoft network client: Digitally sign communications (always). increases the Microsoft Secure Score.",
+  "Type": "Catalog",
+  "GUID": "3279c721-aec9-402d-a40e-f0b1a2bfe4e2"
+}
