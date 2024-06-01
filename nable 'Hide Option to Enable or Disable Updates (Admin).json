@@ -1,0 +1,15 @@
+{
+  "added": [
+    {
+      "definition@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('dd15a0a6-bffa-4db6-8019-a7f5d317bfd3')",
+      "enabled": true,
+      "presentationValues": []
+    }
+  ],
+  "updated": [],
+  "deletedIds": [],
+  "displayName": "Enable 'Hide Option to Enable or Disable Updates'",
+  "description": "Enable 'Hide Option to Enable or Disable Updates' \n\nincreases the Microsoft Secure Score.",
+  "Type": "Admin",
+  "GUID": "ac7a8e07-adc3-4b50-a5b2-4909c3bd33f7"
+}
