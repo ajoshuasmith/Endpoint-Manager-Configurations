@@ -50,7 +50,7 @@
     "templateDisplayVersion": null
   },
   "displayName": "Disable Anonymouse Shares, SAM Accounts and Named Pipes",
-  "description": "Network Access Restrict Anonymous Access To Named Pipes And Shares\nNetwork Access Do Not Allow Anonymous Enumeration Of Sam Accounts And Shares\nNetwork Access Do Not Allow Anonymous Enumeration Of SAM Accounts\n\nincreases the Microsoft Secure Score. \n\nDeployed by CIPP\n",
+  "description": "Network Access Restrict Anonymous Access To Named Pipes And Shares\nNetwork Access Do Not Allow Anonymous Enumeration Of Sam Accounts And Shares\nNetwork Access Do Not Allow Anonymous Enumeration Of SAM Accounts\n\nincreases the Microsoft Secure Score.",
   "Type": "Catalog",
   "GUID": "9dd2d329-a680-4f0b-b120-7f16422ad5bf"
 }
