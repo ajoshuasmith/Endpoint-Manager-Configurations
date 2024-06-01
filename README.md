@@ -9,8 +9,8 @@ If you do not have access to CIPP, there is a PowerShell method that is document
 
 
 References:
-https://learn.microsoft.com/en-us/answers/questions/1259549/export-import-intune-tenant-settings-(windows-conf
-You will need to connect to Microsoft 365 with a Global Administrator
-Uninstall-Module -Name AzureAD (uninstall AzureAD if you previously had it installed)
-Install-Module -Name AzureAD -RequiredVersion 2.0.2.140 (this version fixes the errors)
+<br>https://learn.microsoft.com/en-us/answers/questions/1259549/export-import-intune-tenant-settings-(windows-conf</br>
+<br>You will need to connect to Microsoft 365 with a Global Administrator
+<br>Uninstall-Module -Name AzureAD (uninstall AzureAD if you previously had it installed)
+<br>Install-Module -Name AzureAD -RequiredVersion 2.0.2.140 (this version fixes the errors)
 
