@@ -1,0 +1,30 @@
+{
+  "name": "Turn on PUA protection in block mode",
+  "settings": [
+    {
+      "id": "0",
+      "settingInstance": {
+        "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingInstance",
+        "settingDefinitionId": "device_vendor_msft_policy_config_microsoft_edgev80diff~policy~microsoft_edge~smartscreen_smartscreenpuaenabled",
+        "settingInstanceTemplateReference": null,
+        "choiceSettingValue": {
+          "settingValueTemplateReference": null,
+          "value": "device_vendor_msft_policy_config_microsoft_edgev80diff~policy~microsoft_edge~smartscreen_smartscreenpuaenabled_1",
+          "children": []
+        }
+      }
+    }
+  ],
+  "platforms": "windows10",
+  "technologies": "mdm",
+  "templateReference": {
+    "templateId": "",
+    "templateFamily": "none",
+    "templateDisplayName": null,
+    "templateDisplayVersion": null
+  },
+  "displayName": "Turn on PUA protection in block mode",
+  "description": "Turns on PUA protection in block mode. increases the Microsoft Secure Score.",
+  "Type": "Catalog",
+  "GUID": "5a4323c8-f2c0-48f6-a2e1-58519d3f13d7"
+}
