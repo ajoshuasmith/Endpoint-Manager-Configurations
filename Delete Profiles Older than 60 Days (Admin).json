@@ -1,0 +1,22 @@
+{
+  "added": [
+    {
+      "definition@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('61b92b07-eda0-49f0-99b2-fab2002e50c3')",
+      "enabled": true,
+      "presentationValues": [
+        {
+          "value": 60,
+          "id": "996e4a82-2964-4fd4-b79c-a30b92d9cad9",
+          "@odata.type": "#microsoft.graph.groupPolicyPresentationValueDecimal",
+          "presentation@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('61b92b07-eda0-49f0-99b2-fab2002e50c3')/presentations('46f96c36-9a4f-49bf-a460-8672c1aca74b')"
+        }
+      ]
+    }
+  ],
+  "updated": [],
+  "deletedIds": [],
+  "displayName": "Delete Profiles Older than 60 Days",
+  "description": "",
+  "Type": "Admin",
+  "GUID": "5b6fb674-d319-4a63-b3af-772b47a7014c"
+}
