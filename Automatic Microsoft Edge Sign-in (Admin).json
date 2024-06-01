@@ -1,0 +1,20 @@
+{
+  "added": [
+    {
+      "definition@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('f5412fb1-2fcb-438f-81cb-8427b63d097e')",
+      "enabled": true,
+      "presentationValues": []
+    },
+    {
+      "definition@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('3a2c1db4-2b9f-4b7c-8a20-8b1e0616f7da')",
+      "enabled": true,
+      "presentationValues": []
+    }
+  ],
+  "updated": [],
+  "deletedIds": [],
+  "displayName": "Automatic Microsoft Edge Sign-in",
+  "description": "",
+  "Type": "Admin",
+  "GUID": "eca6e65b-7123-45a3-88fe-f0ac354b3ad4"
+}
