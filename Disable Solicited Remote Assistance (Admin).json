@@ -1,0 +1,15 @@
+{
+  "added": [
+    {
+      "definition@odata.bind": "https://graph.microsoft.com/beta/deviceManagement/groupPolicyDefinitions('a6e1839c-6fb7-4cd6-9017-cf68accef2f8')",
+      "enabled": false,
+      "presentationValues": []
+    }
+  ],
+  "updated": [],
+  "deletedIds": [],
+  "displayName": "Disable Solicited Remote Assistance",
+  "description": "Disable Solicited Remote Assistance. increases the Microsoft Secure Score.",
+  "Type": "Admin",
+  "GUID": "85199a6b-0601-42e5-af40-1b1d4464e1d4"
+}
