@@ -9,7 +9,7 @@
   "updated": [],
   "deletedIds": [],
   "displayName": "Block outdated ActiveX controls for Internet Explorer",
-  "description": "Block outdated ActiveX controls for Internet Explorer and increases the Microsoft Secure Score. \n\nDeployed by CIPP\n",
+  "description": "Block outdated ActiveX controls for Internet Explorer and increases the Microsoft Secure Score.",
   "Type": "Admin",
   "GUID": "b4216136-4ec2-41b0-a0cc-011e1fa508a7"
 }
